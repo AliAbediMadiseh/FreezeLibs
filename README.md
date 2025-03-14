@@ -1,6 +1,6 @@
 # FreezeLibs
 
-[![PyPI Version](https://img.shields.io/pypi/v/FreezeLibs)](https://pypi.org/project/FreezeLibs/)
+[![PyPI Version](https://img.shields.io/pypi/v/FreezeLibs)]([https://pypi.org/project/FreezeLibs/](https://pypi.org/project/FreezeLibs/1.0.1/))
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
